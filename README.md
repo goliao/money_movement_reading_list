@@ -11,6 +11,7 @@ A reading list on cross-border payment, money movement, and banking
 
 - [BIS: Payment, clearing and settlement systems in the United States](https://www.bis.org/cpmi/publ/d105_us.pdf) -- [BIS "red book"](https://www.bis.org/cpmi/paysysinfo.htm) is generally a good resource for country-specific payment system overviews
 
+**Recent payment innovations with distributed ledgers**
 - [Disparte: A Sea Change in How We Send, Spend, Save, and Secure Money?](https://podcasts.apple.com/us/podcast/a-sea-change-in-how-we-send-spend-save-and-secure-money/id1591047411?i=1000539068213) -- excellent podcast episode highlighting developments in digital currency
 
 - [Disparte: Remittances, The Flywheel Of The Global Economy](https://www.forbes.com/sites/dantedisparte/2019/04/23/remittances-the-flywheel-of-the-global-economy/?sh=1dc9e8c87cd0) -- clear articulation of why remittance is important for global economic growth
@@ -46,4 +47,4 @@ A reading list on cross-border payment, money movement, and banking
 
 - [Fedwire Funds Service: Payments, Balances, and Available Liquidity](https://www.federalreserve.gov/econres/feds/files/2021070pap.pdf)
 
-- [Macroprudential considerations for tokenized cash](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4228268)
+- [Macroprudential considerations for tokenized cash](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4228268) 
