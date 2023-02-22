@@ -11,8 +11,14 @@ A reading list on cross-border payment, money movement, and banking
 
 - [BIS: Payment, clearing and settlement systems in the United States](https://www.bis.org/cpmi/publ/d105_us.pdf) -- [BIS "red book"](https://www.bis.org/cpmi/paysysinfo.htm) is generally a good resource for country-specific payment system overviews
 
-- [On-chain FX and cross-border payments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4328948)
--- Gordon's recent paper has a section discussing correspondent banking framework
+- [Disparte: A Sea Change in How We Send, Spend, Save, and Secure Money?](https://podcasts.apple.com/us/podcast/a-sea-change-in-how-we-send-spend-save-and-secure-money/id1591047411?i=1000539068213) -- excellent podcast episode highlighting developments in digital currency
+
+- [Disparte: Remittances, The Flywheel Of The Global Economy](https://www.forbes.com/sites/dantedisparte/2019/04/23/remittances-the-flywheel-of-the-global-economy/?sh=1dc9e8c87cd0) -- clear articulation of why remittance is important for global economic growth
+
+- [Liao: On-chain foreign exchange and cross-border payments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4328948)
+-- Recent paper with a section discussing correspondent banking framework and comparison against on-chain exchange and settlements
+
+
 
 **Traditional banking**
 - [Banks and Liquidity Creation: A Simple Exposition of the Diamond-Dybvig Model](https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/economic_quarterly/2007/spring/pdf/diamond.pdf)
@@ -26,6 +32,8 @@ A reading list on cross-border payment, money movement, and banking
 
 - [Odd Lots: Josh Younger on the Origin Story of the Shadow Banking System](https://podcasts.apple.com/us/podcast/josh-younger-on-the-origin-story-of-the/id1056200096?i=1000585304171)
 -- Good podcast episode on how repo market came about
+
+- [Disparte: The case against CBDC](http://www.international-economy.com/TIE_Su22_Disparte.pdf)
 
 
 **More on settlements, liquidity, and risks**
