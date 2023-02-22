@@ -23,7 +23,7 @@ A reading list on cross-border payment, money movement, and banking
 
 **Traditional banking**
 - [Banks and Liquidity Creation: A Simple Exposition of the Diamond-Dybvig Model](https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/economic_quarterly/2007/spring/pdf/diamond.pdf)
--- Banking regulators usually have Diamond-Dybvig as the foundational understanding of banking.
+-- Banking regulators usually have the Diamond-Dybvig model in mind as the foundational understanding of banking.
 
 **Fractional reserve banking alternatives**
 - [Pennacchi: Narrow banking](https://gpennacc.web.illinois.edu/GPNarrowBankARFE.pdf)
