@@ -33,7 +33,7 @@ A reading list on cross-border payment, money movement, and banking
 - [Odd Lots: Josh Younger on the Origin Story of the Shadow Banking System](https://podcasts.apple.com/us/podcast/josh-younger-on-the-origin-story-of-the/id1056200096?i=1000585304171)
 -- Good podcast episode on how repo market came about
 
-- [Disparte: The case against CBDC](http://www.international-economy.com/TIE_Su22_Disparte.pdf)
+- [Disparte: The case against CBDC](http://www.international-economy.com/TIE_Su22_Disparte.pdf): Comparison between CBDC and payment stablecoins
 
 
 **More on settlements, liquidity, and risks**
