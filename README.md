@@ -1,5 +1,5 @@
 # Reading list on payments and banking
-A reading list on cross-border payment, money movement, and banking
+A reading/podast list on cross-border payment, money movement, and banking
 
 
 **Cross-border payments basics**
